@@ -1,0 +1,9 @@
+/target
+/external
+
+# Benchmark outputs
+/bench/traces/
+/bench/results/
+/bench/profiles/
+*.data
+*.svg
